@@ -1,6 +1,5 @@
 //CREDIT: https://github.com/Senither/hypixel-skyblock-facade (Modified)
 module.exports = (req, res, next) => {
-    return next();
     const AuthTokens = process.env?.TOKENS?.split(',') || []
 
     if (req.headers.hasOwnProperty('authorization') && AuthTokens.includes(req.headers.authorization)) {
