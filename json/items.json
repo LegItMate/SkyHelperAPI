@@ -7536,6 +7536,646 @@
   {
     "material": "SKULL_ITEM",
     "durability": 3,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1NTc2MjM1NzU4NiwKICAicHJvZmlsZUlkIiA6ICI1ZmI5NjkwZGEyNzI0OWQxYjgxNGE4MDk2NGU1ZGY1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZWV2aWFoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViMjAyNmM1NzY3NmJjOTU3N2JjN2QxZWQ2YTNmOGFiYThjM2NjYWRhZTg5NmE1NDE0ZDAzMTVlN2VlMTAzZmYiCiAgICB9CiAgfQp9",
+    "name": "Pufferfish Minion Skin",
+    "category": "COSMETIC",
+    "museum": true,
+    "id": "PUFFERFISH_PERSONALITY"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5MjEwMDAzMzMzNywKICAicHJvZmlsZUlkIiA6ICI2MTI4MTA4MjU5M2Q0OGQ2OWIzMmI3YjlkMzIxMGUxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJuaWNyb25pYzcyMTk2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UxMDMwZjYzYzBlMGQwN2VjMjEyOGQyNThiNTFhZWE5ZWUyYmUwZThjZjhjY2ExYTU5MzA1MzIxMmNmNWRlOSIKICAgIH0KICB9Cn0=",
+    "name": "Fish Minion Skin",
+    "category": "COSMETIC",
+    "museum": true,
+    "id": "FISH_PERSONALITY"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTI0Mjc1NzEwMCwKICAicHJvZmlsZUlkIiA6ICJiNzVjZDRmMThkZjg0MmNlYjJhY2MxNTU5MTNiMjA0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLcmlzdGlqb25hczEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3YTZkMzVlOWQ0MzU0MmQyNzUwYzQ4MzZiNDAzN2Y3NTE0NmViMjc4NzUzMmI0YzRjNWMzYjI2YmI2M2RjMTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "name": "Empty Thunder Bottle",
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 5000,
+    "id": "THUNDER_IN_A_BOTTLE_EMPTY"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODY0NTEyOCwKICAicHJvZmlsZUlkIiA6ICIwMGZiNTRiOWI4NDA0YTA0YTViMmJhMzBlYzBlYTAxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrbGxveWQ3MCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNWViZjZmMTQzMDFkM2ViZDE0NTMzNTg3ZDJhMmQ0ODIzNDQzM2IxN2M5ZDJmMTM5MzRiN2NhYjQ1OGVlMjY3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "name": "Pulse Ring",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 8000,
+    "id": "PULSE_RING"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODc0MzQ2NywKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0Mzc4Yjk4NmUzNTg1NTVlZTczZjA5YjIxMGQ0OWVjMTM3MTlkZTVlYTg4ZDc1NTIzNzcwZDMxMTYzZjNhZWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "name": "Thunder in a Bottle",
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 5000,
+    "id": "THUNDER_IN_A_BOTTLE"
+  },
+  {
+    "material": "LEATHER_CHESTPLATE",
+    "color": "36,221,229",
+    "name": "Thunder Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "stats": {
+      "HEALTH": 230,
+      "DEFENSE": 230,
+      "STRENGTH": 25,
+      "SEA_CREATURE_CHANCE": 4
+    },
+    "requirements": {
+      "skill": {
+        "type": "FISHING",
+        "level": 36
+      }
+    },
+    "npc_sell_price": 200000,
+    "can_have_attributes": true,
+    "salvageable_from_recipe": true,
+    "upgrade_costs": [
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 2
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 4
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 6
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 120
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 8
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 160
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 10
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 15
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 20
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 25
+        },
+        {
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 30
+        },
+        {
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 40
+        },
+        {
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 800
+        }
+      ]
+    ],
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT"
+      }
+    ],
+    "id": "THUNDER_CHESTPLATE"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODc5NDUzNSwKICAicHJvZmlsZUlkIiA6ICI5ZDIyZGRhOTVmZGI0MjFmOGZhNjAzNTI1YThkZmE4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYWZlRHJpZnQ0OCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YTkzZDJiZjk5OWE3ZmUwNTJiZjY3OTVlMGEwYmM3NTU1Y2MxZTAxNGM2NjdmYTg2ZGM0MjFjYjE4NmQ1YjY3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "name": "Thunder Helmet",
+    "category": "HELMET",
+    "tier": "EPIC",
+    "stats": {
+      "HEALTH": 200,
+      "DEFENSE": 170,
+      "STRENGTH": 25,
+      "SEA_CREATURE_CHANCE": 4
+    },
+    "requirements": {
+      "skill": {
+        "type": "FISHING",
+        "level": 36
+      }
+    },
+    "npc_sell_price": 125000,
+    "can_have_attributes": true,
+    "salvageable_from_recipe": true,
+    "upgrade_costs": [
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 2
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 4
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 6
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 120
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 8
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 160
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 10
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 15
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 20
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 25
+        },
+        {
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 30
+        },
+        {
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 40
+        },
+        {
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 800
+        }
+      ]
+    ],
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT"
+      }
+    ],
+    "id": "THUNDER_HELMET"
+  },
+  {
+    "material": "LEATHER_LEGGINGS",
+    "color": "36,221,229",
+    "name": "Thunder Leggings",
+    "category": "LEGGINGS",
+    "tier": "EPIC",
+    "stats": {
+      "HEALTH": 220,
+      "DEFENSE": 200,
+      "STRENGTH": 25,
+      "SEA_CREATURE_CHANCE": 4
+    },
+    "requirements": {
+      "skill": {
+        "type": "FISHING",
+        "level": 36
+      }
+    },
+    "npc_sell_price": 175000,
+    "can_have_attributes": true,
+    "salvageable_from_recipe": true,
+    "upgrade_costs": [
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 2
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 4
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 6
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 120
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 8
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 160
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 10
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 15
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 20
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 25
+        },
+        {
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 30
+        },
+        {
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 40
+        },
+        {
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 800
+        }
+      ]
+    ],
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT"
+      }
+    ],
+    "id": "THUNDER_LEGGINGS"
+  },
+  {
+    "material": "LEATHER_BOOTS",
+    "color": "36,221,229",
+    "name": "Thunder Boots",
+    "category": "BOOTS",
+    "tier": "EPIC",
+    "stats": {
+      "HEALTH": 170,
+      "DEFENSE": 150,
+      "STRENGTH": 25,
+      "SEA_CREATURE_CHANCE": 4
+    },
+    "requirements": {
+      "skill": {
+        "type": "FISHING",
+        "level": 36
+      }
+    },
+    "npc_sell_price": 100000,
+    "can_have_attributes": true,
+    "salvageable_from_recipe": true,
+    "upgrade_costs": [
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 2
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 4
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 6
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 120
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 8
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 160
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 10
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 15
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 20
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "item_id": "THUNDER_SHARDS",
+          "amount": 25
+        },
+        {
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 30
+        },
+        {
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 40
+        },
+        {
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "essence_type": "CRIMSON",
+          "amount": 800
+        }
+      ]
+    ],
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT"
+      }
+    ],
+    "id": "THUNDER_BOOTS"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODY5MjYyMywKICAicHJvZmlsZUlkIiA6ICIzNmMxODk4ZjlhZGE0NjZlYjk0ZDFmZWFmMjQ0MTkxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdW5haWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjZWVkM2IwOGZhMzQ5ODJiYzNmYWFhOTkzNjk0MWI2Y2QwMGFiZDM3MTczZWU2N2IzY2UzYjllMThiZmNhNmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "name": "Thunderbolt Necklace",
+    "tier": "EPIC",
+    "category": "NECKLACE",
+    "npc_sell_price": 75000,
+    "stats": {
+      "HEALTH": 40,
+      "DEFENSE": 30,
+      "SEA_CREATURE_CHANCE": 1.5
+    },
+    "requirements": {
+      "skill": {
+        "type": "FISHING",
+        "level": 36
+      }
+    },
+    "unstackable": true,
+    "can_have_attributes": true,
+    "id": "THUNDERBOLT_NECKLACE"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
     "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzVhMzViNWNhMTUyNjg2ODVjNDY2MDUzNWU1ODgzZDIxYTVlYzU3YzU1ZDM5NzIzNDI2OWFjYjVkYzI5NTRmIn19fQ==",
     "name": "Bird House",
     "furniture": "BIRD_HOUSE",
@@ -7623,6 +8263,14 @@
     "tier": "EPIC",
     "unstackable": true,
     "id": "DYE_MIDNIGHT"
+  },
+  {
+    "material": "INK_SACK",
+    "durability": 4,
+    "name": "Bingo Blue Dye",
+    "tier": "EPIC",
+    "unstackable": true,
+    "id": "DYE_BINGO_BLUE"
   },
   {
     "material": "INK_SACK",
@@ -12193,6 +12841,7 @@
     "material": "GOLD_AXE",
     "name": "Daedalus Axe",
     "category": "SWORD",
+    "sword_type": "AXE",
     "tier": "LEGENDARY",
     "gemstone_slots": [
       {
@@ -12883,6 +13532,195 @@
     "id": "BLUE_SHARK_TOOTH"
   },
   {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWU2ZGYxYzJiZjViOTE4ZjZjODg3OWFmNGM0ZWNjMWRhYmJlMzcyMjkyODRlMWY4ZjZiY2NkYjFlYTNkMGFjIn19fQ==",
+    "name": "Volleyball Court",
+    "furniture": "VOLLEYBALL",
+    "tier": "EPIC",
+    "id": "VOLLEYBALL"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzZkZjljMjEyYThhZDgyNTQ1ZjBlNTk0MTBiZmE5OTBmZjNlN2FhYmU4YmE4YzlmZGMzZDRhNWVhMjcyMjY0OCJ9fX0=",
+    "name": "Ice Cream Cart",
+    "furniture": "ICE_CREAM_CART",
+    "tier": "EPIC",
+    "id": "ICE_CREAM_CART"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc5N2ZlNTQ5OTE5MWRkZWM5NGY1MGZhNmFiOWNiYzE4YzljZDZmYTFiOTdlMzZiNGQ1MTliNjIzMTkzZDUifX19",
+    "name": "Crab",
+    "furniture": "CRAB",
+    "tier": "RARE",
+    "id": "CRAB"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTYzZTY2NDZmMWMwZDQxZmQzYmY1NTg0YTFjZTA0NGY1YzQ2ZDU5ODI1OGRiNDYyMTYxMTc4NTlmNTdhZjE5NyJ9fX0=",
+    "name": "Hammock",
+    "furniture": "HAMMOCK",
+    "tier": "RARE",
+    "id": "HAMMOCK"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ0MjE3ODJmYTllMDQxY2E4Y2NlNmFhYzNhMGIzMzdlY2MxYjk3MWIxNjhlY2JlZWY2OGI4ODEzZWUzOTZkYiJ9fX0=",
+    "name": "Small Pool",
+    "furniture": "SMALL_POOL",
+    "tier": "RARE",
+    "id": "SMALL_POOL"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzUxNWFjZjRhNmFjNjk4NzM2ZTU0ZGVmMGJjNzgxNDNjMTQ0NDk5NzhlNzUwYWZiYjhkN2FkZTBhZGYwZWYwMCJ9fX0=",
+    "name": "Bingo Relic",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "museum": true,
+    "id": "BINGO_RELIC"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "name": "Golden Dante Statue",
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzQ4NTk1NTUwNSwKICAicHJvZmlsZUlkIiA6ICJkZGVkNTZlMWVmOGI0MGZlOGFkMTYyOTIwZjdhZWNkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaXNjb3JkQXBwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3ODZhNGMxOTRhODFmMWQ5NTc5ZjBhYTBmZjU5ZjQ1ZDlmMjU5YzRiNTA2NzRkNjc2ZmQ0ZjM0ZWFjMTBiZTIiCiAgICB9CiAgfQp9",
+    "category": "COSMETIC",
+    "tier": "EPIC",
+    "unstackable": true,
+    "museum": true,
+    "id": "GOLDEN_DANTE_STATUE"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGIzYTA1YjE4MDI2MGRkMDc0Nzk5ZDA1YjkwZjY3OTBiOTYwZDZlNWNiYTNkZDEyNWJhM2JmZDljYzE1NDA4OSJ9fX0=",
+    "name": "Bingo Heirloom",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY",
+    "museum": true,
+    "id": "BINGO_HEIRLOOM"
+  },
+  {
+    "material": "PAPER",
+    "name": "Bingo Card",
+    "tier": "SPECIAL",
+    "museum": true,
+    "soulbound": "COOP",
+    "id": "BINGO_CARD"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmYyNTk0NGI3NDY1ZmY0NTg2YTM0MWY4ODFmNDg4YjZmOWQ0YjNmZmMxMDBmNTBhNzcwODcwNzViM2NlYjFiIn19fQ==",
+    "name": "Bingo Talisman",
+    "category": "ACCESSORY",
+    "tier": "COMMON",
+    "museum": true,
+    "id": "BINGO_TALISMAN"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjJmMjQ5OWFiNGNmYzk3ZTY1ZjBmYTlmZTYzY2M2MDY3MDdhNGFlOTZhZjQwNzg0NmIxYjUzNTRmM2ZhZDk5In19fQ==",
+    "name": "Bingo Ring",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "museum": true,
+    "id": "BINGO_RING"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDJkYWQ4NjhmOGQ4NjViYWEzMmQ2MTU4NjcyZDFiMTM0ZGI2MWVhNTZkMzNlZmEwYzA5ZjZiYTZmMjc2ZmYyIn19fQ==",
+    "name": "Bingo Artifact",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "museum": true,
+    "id": "BINGO_ARTIFACT"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "name": "Ditto Skin",
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzODE5NzI2OTE2NywKICAicHJvZmlsZUlkIiA6ICIxNzU1N2FjNTEzMWE0YTUzODAwODg3Y2E4ZTQ4YWQyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZW50YXRpbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NWFhODU5ZWMzZjU2NWViMDA2ZWQ3ZGYyNjQxOWRlYWM5YTE1NDIwZDA5Y2ZkM2JkZWVjNDBlYTA3ZDEzNjZhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "category": "COSMETIC",
+    "tier": "EPIC",
+    "unstackable": true,
+    "museum": true,
+    "id": "DITTO_SKIN"
+  },
+  {
+    "material": "COAL_BLOCK",
+    "name": "Bingo Display",
+    "category": "COSMETIC",
+    "tier": "COMMON",
+    "unstackable": true,
+    "description": "%%gray%%Show off your total %%gold%%Bingo Points%%gray%%!",
+    "museum": true,
+    "id": "BINGO_DISPLAY"
+  },
+  {
+    "material": "CHAINMAIL_BOOTS",
+    "name": "Spring Boots",
+    "category": "BOOTS",
+    "tier": "RARE",
+    "enchantments": {
+      "feather_falling": 20
+    },
+    "unstackable": true,
+    "museum": true,
+    "id": "SPRING_BOOTS"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "name": "Ditto Skull",
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzODE5NzI2OTE2NywKICAicHJvZmlsZUlkIiA6ICIxNzU1N2FjNTEzMWE0YTUzODAwODg3Y2E4ZTQ4YWQyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZW50YXRpbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NWFhODU5ZWMzZjU2NWViMDA2ZWQ3ZGYyNjQxOWRlYWM5YTE1NDIwZDA5Y2ZkM2JkZWVjNDBlYTA3ZDEzNjZhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "category": "COSMETIC",
+    "tier": "EPIC",
+    "unstackable": true,
+    "museum": true,
+    "id": "DITTO_SKULL"
+  },
+  {
+    "material": "BOOK",
+    "name": "Book of Stats",
+    "category": "COSMETIC",
+    "tier": "EPIC",
+    "unstackable": true,
+    "description": "%%gray%%Combine with any weapon in an Anvil to start tracking its kills.",
+    "museum": true,
+    "id": "BOOK_OF_STATS"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "name": "Bonzo Statue",
+    "skin": "ewogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2I1MzQxNjhjNTI2MThlNDc3MDE1ZGY3ZWVkNzlkMmQ1ZmU0ZDdmNzJmMDBkNGI3MTM2ZmNmYjkyNjFmNDAyYyIKICAgIH0KICB9Cn0=",
+    "category": "COSMETIC",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "museum": true,
+    "id": "BONZO_STATUE"
+  },
+  {
+    "material": "HAY_BLOCK",
+    "name": "Collection Display",
+    "category": "COSMETIC",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "description": "%%gray%%Show off your collection progress!",
+    "museum": true,
+    "id": "COLLECTION_DISPLAY"
+  },
+  {
     "material": "IRON_SWORD",
     "name": "Combat Exp Boost",
     "glowing": true,
@@ -13207,16 +14045,6 @@
     "id": "PLASMA_BUCKET"
   },
   {
-    "material": "SKULL_ITEM",
-    "durability": 3,
-    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzUxNWFjZjRhNmFjNjk4NzM2ZTU0ZGVmMGJjNzgxNDNjMTQ0NDk5NzhlNzUwYWZiYjhkN2FkZTBhZGYwZWYwMCJ9fX0=",
-    "name": "Bingo Relic",
-    "category": "ACCESSORY",
-    "tier": "EPIC",
-    "museum": true,
-    "id": "BINGO_RELIC"
-  },
-  {
     "material": "COMPASS",
     "name": "Hostage Compass",
     "tier": "UNCOMMON",
@@ -13405,6 +14233,7 @@
     "material": "IRON_HOE",
     "name": "Frozen Scythe",
     "category": "SWORD",
+    "sword_type": "SCYTHE",
     "tier": "RARE",
     "stats": {
       "DAMAGE": 80,
@@ -14758,16 +15587,6 @@
     },
     "dungeon_item": true,
     "id": "SKELETON_MASTER_CHESTPLATE"
-  },
-  {
-    "material": "SKULL_ITEM",
-    "durability": 3,
-    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTI0Mjc1NzEwMCwKICAicHJvZmlsZUlkIiA6ICJiNzVjZDRmMThkZjg0MmNlYjJhY2MxNTU5MTNiMjA0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLcmlzdGlqb25hczEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3YTZkMzVlOWQ0MzU0MmQyNzUwYzQ4MzZiNDAzN2Y3NTE0NmViMjc4NzUzMmI0YzRjNWMzYjI2YmI2M2RjMTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-    "name": "Empty Thunder Bottle",
-    "tier": "EPIC",
-    "unstackable": true,
-    "npc_sell_price": 5000,
-    "id": "THUNDER_IN_A_BOTTLE_EMPTY"
   },
   {
     "material": "HOPPER_MINECART",
@@ -19125,17 +19944,6 @@
     "id": "SKELETON_MASTER_LEGGINGS"
   },
   {
-    "material": "SKULL_ITEM",
-    "durability": 3,
-    "name": "Golden Dante Statue",
-    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzQ4NTk1NTUwNSwKICAicHJvZmlsZUlkIiA6ICJkZGVkNTZlMWVmOGI0MGZlOGFkMTYyOTIwZjdhZWNkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaXNjb3JkQXBwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3ODZhNGMxOTRhODFmMWQ5NTc5ZjBhYTBmZjU5ZjQ1ZDlmMjU5YzRiNTA2NzRkNjc2ZmQ0ZjM0ZWFjMTBiZTIiCiAgICB9CiAgfQp9",
-    "category": "COSMETIC",
-    "tier": "EPIC",
-    "unstackable": true,
-    "museum": true,
-    "id": "GOLDEN_DANTE_STATUE"
-  },
-  {
     "material": "BAKED_POTATO",
     "name": "Enchanted Baked Potato",
     "glowing": true,
@@ -21048,149 +21856,6 @@
     "name": "Protector Dragon Fragment",
     "tier": "EPIC",
     "id": "PROTECTOR_FRAGMENT"
-  },
-  {
-    "material": "LEATHER_CHESTPLATE",
-    "color": "36,221,229",
-    "name": "Thunder Chestplate",
-    "category": "CHESTPLATE",
-    "tier": "EPIC",
-    "soulbound": "COOP",
-    "stats": {
-      "HEALTH": 230,
-      "DEFENSE": 230,
-      "STRENGTH": 25,
-      "SEA_CREATURE_CHANCE": 4
-    },
-    "requirements": {
-      "skill": {
-        "type": "FISHING",
-        "level": 36
-      }
-    },
-    "npc_sell_price": 200000,
-    "can_have_attributes": true,
-    "salvageable_from_recipe": true,
-    "upgrade_costs": [
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 2
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 40
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 4
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 80
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 6
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 120
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 8
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 160
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 10
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 200
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 15
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 300
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 20
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 400
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 25
-        },
-        {
-          "item_id": "HEAVY_PEARL",
-          "amount": 3
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 500
-        }
-      ],
-      [
-        {
-          "item_id": "HORN_OF_TAURUS",
-          "amount": 30
-        },
-        {
-          "item_id": "HEAVY_PEARL",
-          "amount": 4
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 600
-        }
-      ],
-      [
-        {
-          "item_id": "HORN_OF_TAURUS",
-          "amount": 40
-        },
-        {
-          "item_id": "HEAVY_PEARL",
-          "amount": 5
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 800
-        }
-      ]
-    ],
-    "gemstone_slots": [
-      {
-        "slot_type": "COMBAT"
-      }
-    ],
-    "id": "THUNDER_CHESTPLATE"
   },
   {
     "material": "RABBIT",
@@ -24917,16 +25582,6 @@
   {
     "material": "SKULL_ITEM",
     "durability": 3,
-    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGIzYTA1YjE4MDI2MGRkMDc0Nzk5ZDA1YjkwZjY3OTBiOTYwZDZlNWNiYTNkZDEyNWJhM2JmZDljYzE1NDA4OSJ9fX0=",
-    "name": "Bingo Heirloom",
-    "category": "ACCESSORY",
-    "tier": "LEGENDARY",
-    "museum": true,
-    "id": "BINGO_HEIRLOOM"
-  },
-  {
-    "material": "SKULL_ITEM",
-    "durability": 3,
     "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNjU4MDA1MDY0NCwKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2EzYzg1NjMyNzFhMDE3ZDM0NTc1Y2M2ZmEyODM4MWM3MzRlYmE0NjE3ZmVlZjZjYTVmN2QwYTVmZWRhNDNkMyIKICAgIH0KICB9Cn0=",
     "name": "Present Minion Skin",
     "category": "COSMETIC",
@@ -25178,13 +25833,6 @@
       ]
     ],
     "id": "DOJO_YELLOW_BELT"
-  },
-  {
-    "material": "PAPER",
-    "name": "Bingo Card",
-    "tier": "SPECIAL",
-    "museum": true,
-    "id": "BINGO_CARD"
   },
   {
     "material": "DIAMOND_BOOTS",
@@ -28793,16 +29441,6 @@
     "id": "TANK_WITHER_LEGGINGS"
   },
   {
-    "material": "SKULL_ITEM",
-    "durability": 3,
-    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmYyNTk0NGI3NDY1ZmY0NTg2YTM0MWY4ODFmNDg4YjZmOWQ0YjNmZmMxMDBmNTBhNzcwODcwNzViM2NlYjFiIn19fQ==",
-    "name": "Bingo Talisman",
-    "category": "ACCESSORY",
-    "tier": "COMMON",
-    "museum": true,
-    "id": "BINGO_TALISMAN"
-  },
-  {
     "material": "LEATHER_BOOTS",
     "item_durability": -1,
     "color": "0,0,0",
@@ -30340,16 +30978,6 @@
     "id": "ENCHANTED_QUARTZ"
   },
   {
-    "material": "SKULL_ITEM",
-    "durability": 3,
-    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjJmMjQ5OWFiNGNmYzk3ZTY1ZjBmYTlmZTYzY2M2MDY3MDdhNGFlOTZhZjQwNzg0NmIxYjUzNTRmM2ZhZDk5In19fQ==",
-    "name": "Bingo Ring",
-    "category": "ACCESSORY",
-    "tier": "UNCOMMON",
-    "museum": true,
-    "id": "BINGO_RING"
-  },
-  {
     "material": "IRON_HOE",
     "name": "Wand of Recall",
     "glowing": true,
@@ -31849,6 +32477,7 @@
     "material": "GOLD_AXE",
     "name": "Ragnarock Axe",
     "category": "SWORD",
+    "sword_type": "AXE",
     "tier": "RARE",
     "stats": {
       "DAMAGE": 250,
@@ -32023,16 +32652,6 @@
       }
     ],
     "id": "RAGNAROCK_AXE"
-  },
-  {
-    "material": "SKULL_ITEM",
-    "durability": 3,
-    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDJkYWQ4NjhmOGQ4NjViYWEzMmQ2MTU4NjcyZDFiMTM0ZGI2MWVhNTZkMzNlZmEwYzA5ZjZiYTZmMjc2ZmYyIn19fQ==",
-    "name": "Bingo Artifact",
-    "category": "ACCESSORY",
-    "tier": "RARE",
-    "museum": true,
-    "id": "BINGO_ARTIFACT"
   },
   {
     "material": "SKULL_ITEM",
@@ -32934,6 +33553,7 @@
     "glowing": true,
     "tier": "SPECIAL",
     "museum": true,
+    "soulbound": "COOP",
     "id": "SPOOKY_PIE"
   },
   {
@@ -33621,6 +34241,7 @@
     "material": "IRON_AXE",
     "name": "Raider Axe",
     "category": "SWORD",
+    "sword_type": "AXE",
     "tier": "RARE",
     "stats": {
       "DAMAGE": 80,
@@ -37449,7 +38070,7 @@
     "stats": {
       "MAGIC_FIND": 5,
       "MINING_FORTUNE": 20,
-      "TRUE_DEFENSE": 75,
+      "TRUE_DEFENSE": 40,
       "MINING_SPEED": 50
     },
     "npc_sell_price": 60000,
@@ -38818,16 +39439,6 @@
     "name": "§bSolved Rubix Prism",
     "tier": "EPIC",
     "id": "SOLVED_PRISM"
-  },
-  {
-    "material": "COAL_BLOCK",
-    "name": "Bingo Display",
-    "category": "COSMETIC",
-    "tier": "COMMON",
-    "unstackable": true,
-    "description": "%%gray%%Show off your total %%gold%%Bingo Points%%gray%%!",
-    "museum": true,
-    "id": "BINGO_DISPLAY"
   },
   {
     "material": "WEB",
@@ -41254,6 +41865,7 @@
     "tier": "SPECIAL",
     "npc_sell_price": 1337,
     "museum": true,
+    "soulbound": "SOLO",
     "id": "THE_CAKE"
   },
   {
@@ -42223,7 +42835,7 @@
   },
   {
     "material": "INK_SACK",
-    "name": "Enchanted Ink Sack",
+    "name": "Enchanted Ink Sac",
     "glowing": true,
     "tier": "UNCOMMON",
     "npc_sell_price": 160,
@@ -42830,18 +43442,6 @@
     },
     "npc_sell_price": 12,
     "id": "LEATHER_CHESTPLATE"
-  },
-  {
-    "material": "CHAINMAIL_BOOTS",
-    "name": "Spring Boots",
-    "category": "BOOTS",
-    "tier": "RARE",
-    "enchantments": {
-      "feather_falling": 20
-    },
-    "unstackable": true,
-    "museum": true,
-    "id": "SPRING_BOOTS"
   },
   {
     "material": "WOOD_HOE",
@@ -43701,150 +44301,6 @@
     "id": "TOIL_LOG"
   },
   {
-    "material": "SKULL_ITEM",
-    "durability": 3,
-    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODc5NDUzNSwKICAicHJvZmlsZUlkIiA6ICI5ZDIyZGRhOTVmZGI0MjFmOGZhNjAzNTI1YThkZmE4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYWZlRHJpZnQ0OCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YTkzZDJiZjk5OWE3ZmUwNTJiZjY3OTVlMGEwYmM3NTU1Y2MxZTAxNGM2NjdmYTg2ZGM0MjFjYjE4NmQ1YjY3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-    "name": "Thunder Helmet",
-    "category": "HELMET",
-    "tier": "EPIC",
-    "soulbound": "COOP",
-    "stats": {
-      "HEALTH": 200,
-      "DEFENSE": 170,
-      "STRENGTH": 25,
-      "SEA_CREATURE_CHANCE": 4
-    },
-    "requirements": {
-      "skill": {
-        "type": "FISHING",
-        "level": 36
-      }
-    },
-    "npc_sell_price": 125000,
-    "can_have_attributes": true,
-    "salvageable_from_recipe": true,
-    "upgrade_costs": [
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 2
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 40
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 4
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 80
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 6
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 120
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 8
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 160
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 10
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 200
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 15
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 300
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 20
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 400
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 25
-        },
-        {
-          "item_id": "HEAVY_PEARL",
-          "amount": 3
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 500
-        }
-      ],
-      [
-        {
-          "item_id": "HORN_OF_TAURUS",
-          "amount": 30
-        },
-        {
-          "item_id": "HEAVY_PEARL",
-          "amount": 4
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 600
-        }
-      ],
-      [
-        {
-          "item_id": "HORN_OF_TAURUS",
-          "amount": 40
-        },
-        {
-          "item_id": "HEAVY_PEARL",
-          "amount": 5
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 800
-        }
-      ]
-    ],
-    "gemstone_slots": [
-      {
-        "slot_type": "COMBAT"
-      }
-    ],
-    "id": "THUNDER_HELMET"
-  },
-  {
     "material": "CHAINMAIL_LEGGINGS",
     "name": "Ember Leggings",
     "category": "LEGGINGS",
@@ -44395,7 +44851,7 @@
     "stats": {
       "MAGIC_FIND": 5,
       "MINING_FORTUNE": 20,
-      "TRUE_DEFENSE": 150,
+      "TRUE_DEFENSE": 70,
       "MINING_SPEED": 50
     },
     "npc_sell_price": 105000,
@@ -45764,6 +46220,7 @@
     "material": "IRON_AXE",
     "name": "Mercenary Axe",
     "category": "SWORD",
+    "sword_type": "AXE",
     "tier": "RARE",
     "stats": {
       "STRENGTH": 20,
@@ -46024,149 +46481,6 @@
     "tier": "EPIC",
     "dungeon_item": true,
     "id": "GIANT_FRAGMENT_LASER"
-  },
-  {
-    "material": "LEATHER_LEGGINGS",
-    "color": "36,221,229",
-    "name": "Thunder Leggings",
-    "category": "LEGGINGS",
-    "tier": "EPIC",
-    "soulbound": "COOP",
-    "stats": {
-      "HEALTH": 220,
-      "DEFENSE": 200,
-      "STRENGTH": 25,
-      "SEA_CREATURE_CHANCE": 4
-    },
-    "requirements": {
-      "skill": {
-        "type": "FISHING",
-        "level": 36
-      }
-    },
-    "npc_sell_price": 175000,
-    "can_have_attributes": true,
-    "salvageable_from_recipe": true,
-    "upgrade_costs": [
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 2
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 40
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 4
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 80
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 6
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 120
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 8
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 160
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 10
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 200
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 15
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 300
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 20
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 400
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 25
-        },
-        {
-          "item_id": "HEAVY_PEARL",
-          "amount": 3
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 500
-        }
-      ],
-      [
-        {
-          "item_id": "HORN_OF_TAURUS",
-          "amount": 30
-        },
-        {
-          "item_id": "HEAVY_PEARL",
-          "amount": 4
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 600
-        }
-      ],
-      [
-        {
-          "item_id": "HORN_OF_TAURUS",
-          "amount": 40
-        },
-        {
-          "item_id": "HEAVY_PEARL",
-          "amount": 5
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 800
-        }
-      ]
-    ],
-    "gemstone_slots": [
-      {
-        "slot_type": "COMBAT"
-      }
-    ],
-    "id": "THUNDER_LEGGINGS"
   },
   {
     "material": "BEACON",
@@ -46782,16 +47096,6 @@
   {
     "material": "SKULL_ITEM",
     "durability": 3,
-    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODY0NTEyOCwKICAicHJvZmlsZUlkIiA6ICIwMGZiNTRiOWI4NDA0YTA0YTViMmJhMzBlYzBlYTAxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrbGxveWQ3MCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNWViZjZmMTQzMDFkM2ViZDE0NTMzNTg3ZDJhMmQ0ODIzNDQzM2IxN2M5ZDJmMTM5MzRiN2NhYjQ1OGVlMjY3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-    "name": "Pulse Ring",
-    "category": "ACCESSORY",
-    "tier": "UNCOMMON",
-    "npc_sell_price": 8000,
-    "id": "PULSE_RING"
-  },
-  {
-    "material": "SKULL_ITEM",
-    "durability": 3,
     "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYxMDc4OTU0MiwKICAicHJvZmlsZUlkIiA6ICIzNzNiZmY5NzQwMmY0N2IzOTViOTZlNzc3NmNmOGFhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJjdXRlcGluazczIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YwMmI3NTRmMWY3MmFhNjU1MWMwMjA0YTAwMWZlNTM2MjcwN2UzMDJjZjAzNzk5NzFmMjZjYjVkYWRhNTY0YjYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "name": "Y",
     "tier": "EPIC",
@@ -47007,17 +47311,6 @@
     "id": "SANDSTONE:2"
   },
   {
-    "material": "SKULL_ITEM",
-    "durability": 3,
-    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODc0MzQ2NywKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0Mzc4Yjk4NmUzNTg1NTVlZTczZjA5YjIxMGQ0OWVjMTM3MTlkZTVlYTg4ZDc1NTIzNzcwZDMxMTYzZjNhZWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-    "name": "Thunder in a Bottle",
-    "tier": "EPIC",
-    "description": "%%gray%%What happens if you open it? The answer may shock you.",
-    "unstackable": true,
-    "npc_sell_price": 5000,
-    "id": "THUNDER_IN_A_BOTTLE"
-  },
-  {
     "material": "RED_ROSE",
     "durability": 2,
     "name": "The Alchemist's Staff",
@@ -47037,6 +47330,7 @@
     },
     "ability_damage_scaling": 0.3,
     "npc_sell_price": 2000,
+    "soulbound": "SOLO",
     "upgrade_costs": [
       [
         {
@@ -48345,12 +48639,13 @@
     "material": "SKULL_ITEM",
     "durability": 3,
     "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI2YzYyOGE0OGY2NDE2MDk5MTU0NGQyYTc4NGVjMmNhMDk1NjNlOGQ2ZGE0OTE5MTU4MjczYWJhYmI5MSJ9fX0=",
-    "name": "Crab Hat",
+    "name": "Crab Hat of Celebration",
     "category": "ACCESSORY",
     "stats": {
       "MAGIC_FIND": 1
     },
     "museum": true,
+    "tier": "SPECIAL",
     "id": "PARTY_HAT_CRAB"
   },
   {
@@ -49504,17 +49799,6 @@
     "id": "ENCHANTED_CHARCOAL"
   },
   {
-    "material": "SKULL_ITEM",
-    "durability": 3,
-    "name": "Ditto Skull",
-    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzODE5NzI2OTE2NywKICAicHJvZmlsZUlkIiA6ICIxNzU1N2FjNTEzMWE0YTUzODAwODg3Y2E4ZTQ4YWQyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZW50YXRpbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NWFhODU5ZWMzZjU2NWViMDA2ZWQ3ZGYyNjQxOWRlYWM5YTE1NDIwZDA5Y2ZkM2JkZWVjNDBlYTA3ZDEzNjZhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-    "category": "COSMETIC",
-    "tier": "EPIC",
-    "unstackable": true,
-    "museum": true,
-    "id": "DITTO_SKULL"
-  },
-  {
     "material": "IRON_BOOTS",
     "name": "Spider's Boots",
     "category": "BOOTS",
@@ -50316,16 +50600,6 @@
     "unstackable": true,
     "museum": true,
     "id": "PET_SKIN_SHEEP_PURPLE"
-  },
-  {
-    "material": "BOOK",
-    "name": "Book of Stats",
-    "category": "COSMETIC",
-    "tier": "EPIC",
-    "unstackable": true,
-    "description": "%%gray%%Combine with any weapon in an Anvil to start tracking its kills.",
-    "museum": true,
-    "id": "BOOK_OF_STATS"
   },
   {
     "material": "SKULL_ITEM",
@@ -51307,17 +51581,6 @@
     },
     "npc_sell_price": 12,
     "id": "DIAMOND_PICKAXE"
-  },
-  {
-    "material": "SKULL_ITEM",
-    "durability": 3,
-    "name": "Bonzo Statue",
-    "skin": "ewogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2I1MzQxNjhjNTI2MThlNDc3MDE1ZGY3ZWVkNzlkMmQ1ZmU0ZDdmNzJmMDBkNGI3MTM2ZmNmYjkyNjFmNDAyYyIKICAgIH0KICB9Cn0=",
-    "category": "COSMETIC",
-    "tier": "UNCOMMON",
-    "unstackable": true,
-    "museum": true,
-    "id": "BONZO_STATUE"
   },
   {
     "material": "SKULL_ITEM",
@@ -53161,7 +53424,7 @@
     "stats": {
       "MAGIC_FIND": 5,
       "MINING_FORTUNE": 20,
-      "TRUE_DEFENSE": 200,
+      "TRUE_DEFENSE": 80,
       "MINING_SPEED": 50
     },
     "npc_sell_price": 120000,
@@ -58286,6 +58549,7 @@
     "item_durability": -1,
     "name": "Livid Dagger",
     "category": "SWORD",
+    "sword_type": "DAGGER",
     "tier": "LEGENDARY",
     "stats": {
       "DAMAGE": 210,
@@ -58732,7 +58996,7 @@
     "stats": {
       "MAGIC_FIND": 5,
       "MINING_FORTUNE": 20,
-      "TRUE_DEFENSE": 100,
+      "TRUE_DEFENSE": 50,
       "MINING_SPEED": 50
     },
     "npc_sell_price": 75000,
@@ -59054,7 +59318,7 @@
     "material": "SKULL_ITEM",
     "durability": 3,
     "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzhiZThhYmQ2NmQwOWE1OGNlMTJkMzc3NTQ0ZDcyNmQyNWNhZDdlOTc5ZThjMjQ4MTg2NmJlOTRkM2IzMmYifX19",
-    "name": "Tesselated Ender Pearl",
+    "name": "Tessellated Ender Pearl",
     "tier": "LEGENDARY",
     "npc_sell_price": 96000,
     "id": "TESSELLATED_ENDER_PEARL"
@@ -59087,16 +59351,6 @@
     "name": "§fChunk of the Moon",
     "tier": "RARE",
     "id": "MOON_CHUNK"
-  },
-  {
-    "material": "HAY_BLOCK",
-    "name": "Collection Display",
-    "category": "COSMETIC",
-    "tier": "UNCOMMON",
-    "unstackable": true,
-    "description": "%%gray%%Show off your collection progress!",
-    "museum": true,
-    "id": "COLLECTION_DISPLAY"
   },
   {
     "material": "PRISMARINE_CRYSTALS",
@@ -60059,149 +60313,6 @@
     "id": "PET_ITEM_TIER_BOOST_DROP"
   },
   {
-    "material": "LEATHER_BOOTS",
-    "color": "36,221,229",
-    "name": "Thunder Boots",
-    "category": "BOOTS",
-    "tier": "EPIC",
-    "soulbound": "COOP",
-    "stats": {
-      "HEALTH": 170,
-      "DEFENSE": 150,
-      "STRENGTH": 25,
-      "SEA_CREATURE_CHANCE": 4
-    },
-    "requirements": {
-      "skill": {
-        "type": "FISHING",
-        "level": 36
-      }
-    },
-    "npc_sell_price": 100000,
-    "can_have_attributes": true,
-    "salvageable_from_recipe": true,
-    "upgrade_costs": [
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 2
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 40
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 4
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 80
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 6
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 120
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 8
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 160
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 10
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 200
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 15
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 300
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 20
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 400
-        }
-      ],
-      [
-        {
-          "item_id": "THUNDER_SHARDS",
-          "amount": 25
-        },
-        {
-          "item_id": "HEAVY_PEARL",
-          "amount": 3
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 500
-        }
-      ],
-      [
-        {
-          "item_id": "HORN_OF_TAURUS",
-          "amount": 30
-        },
-        {
-          "item_id": "HEAVY_PEARL",
-          "amount": 4
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 600
-        }
-      ],
-      [
-        {
-          "item_id": "HORN_OF_TAURUS",
-          "amount": 40
-        },
-        {
-          "item_id": "HEAVY_PEARL",
-          "amount": 5
-        },
-        {
-          "essence_type": "CRIMSON",
-          "amount": 800
-        }
-      ]
-    ],
-    "gemstone_slots": [
-      {
-        "slot_type": "COMBAT"
-      }
-    ],
-    "id": "THUNDER_BOOTS"
-  },
-  {
     "material": "SKULL_ITEM",
     "durability": 3,
     "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjFmZmJkYTkyNDQyODczZDU0MDUxZTRlMTdlYTQ3Mjc4Y2IzYjc0N2Q3OTgwNzBiYTgzYmM0YTlkZTU4ZGQifX19",
@@ -60512,7 +60623,7 @@
     },
     "requirements": {
       "heart_of_the_mountain": {
-        "tier": 7
+        "tier": 6
       }
     },
     "gemstone_slots": [
@@ -64971,29 +65082,6 @@
   {
     "material": "SKULL_ITEM",
     "durability": 3,
-    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODY5MjYyMywKICAicHJvZmlsZUlkIiA6ICIzNmMxODk4ZjlhZGE0NjZlYjk0ZDFmZWFmMjQ0MTkxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdW5haWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjZWVkM2IwOGZhMzQ5ODJiYzNmYWFhOTkzNjk0MWI2Y2QwMGFiZDM3MTczZWU2N2IzY2UzYjllMThiZmNhNmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-    "name": "Thunderbolt Necklace",
-    "tier": "EPIC",
-    "category": "NECKLACE",
-    "npc_sell_price": 75000,
-    "stats": {
-      "HEALTH": 40,
-      "DEFENSE": 30,
-      "SEA_CREATURE_CHANCE": 1.5
-    },
-    "requirements": {
-      "skill": {
-        "type": "FISHING",
-        "level": 36
-      }
-    },
-    "unstackable": true,
-    "can_have_attributes": true,
-    "id": "THUNDERBOLT_NECKLACE"
-  },
-  {
-    "material": "SKULL_ITEM",
-    "durability": 3,
     "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjQ0MzYwNzg3OSwKICAicHJvZmlsZUlkIiA6ICJmMTA0NzMxZjljYTU0NmI0OTkzNjM4NTlkZWY5N2NjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aWFkODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTk5YzM0NzBiYTQzMTc5MTM3MTdhYjM2YjYyNmFlYzBiNTYzMjY2ZTI4YjNhNTE3ZDcxZTlhMGFmMGM5MGY5NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
     "name": "Tentacle Meat",
     "tier": "RARE",
@@ -67338,7 +67426,7 @@
     "name": "Blaze Talisman",
     "tier": "RARE",
     "unstackable": true,
-    "soulbound": "SOLO",
+    "soulbound": "COOP",
     "category": "ACCESSORY",
     "stats": {
       "TRUE_DEFENSE": 3
@@ -67494,7 +67582,7 @@
   {
     "material": "SKULL_ITEM",
     "durability": 3,
-    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjVmNzgxMDQxNGEyY2VlMmJjMWRlMTJlY2VmN2E0Yzg5ZmM5YjM4ZTlkMDQxNGE5MDk5MTI0MWE1ODYzNzA1ZiJ9fX0=",
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmIzMWE4MTEyNWI1M2VjOGZmMTFkMDlkYjM3YTJkZDQ0MmM0MjdiNWMzNmQ0YzZiYTVjMTlkY2QwMmU2MzEifX19",
     "name": "Reaper Pepper",
     "tier": "LEGENDARY",
     "id": "REAPER_PEPPER"
@@ -67727,6 +67815,35 @@
   {
     "material": "SKULL_ITEM",
     "durability": 3,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODczMDU4NDQ2OCwKICAicHJvZmlsZUlkIiA6ICJjOWRlZTM4MDUzYjg0YzI5YjZlZjA5YjJlMDM5OTc0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQVJfRGVjZW1iZXI1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y1OTlmOTU5ZjBlYmNiMWViMGYyZTU4NTJkMTIyY2E1NWJmNTI1OGZkNDYxM2FiNTBkNzJhZDhjZjVlMTI2MDMiCiAgICB9CiAgfQp9",
+    "name": "Stuffed Chili Pepper",
+    "tier": "RARE",
+    "description": "It's red hot, but green and stuffed!",
+    "npc_sell_price": 200000,
+    "id": "STUFFED_CHILI_PEPPER"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjg1OWM4ZGYxMTA5YzA4YTc1NjI3NWYxZDI4ODdjMjc0ODA0OWZlMzM4Nzc3NjlhN2I0MTVkNTZlZGE0NjlkOCJ9fX0=",
+    "name": "Chili Pepper",
+    "tier": "UNCOMMON",
+    "description": "It's red hot, but green!",
+    "npc_sell_price": 5000,
+    "id": "CHILI_PEPPER"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODQ3MzIwNTEwMiwKICAicHJvZmlsZUlkIiA6ICIwMGZiNTRiOWI4NDA0YTA0YTViMmJhMzBlYzBlYTAxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrbGxveWQ3MCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NWQ1ZWJlZjk5ODY4YTliNmFjZTk0ODljOTM5N2U5NzlmZTBmMmI1NmNhZmIyZjY5Yjk0YThjNTlhODU2ODYwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0",
+    "name": "Hypergolic Ionized Ceramics",
+    "tier": "EPIC",
+    "description": "Obtained from expired hypergolic fuel.\n\n%%dark_gray%%First the gabagool fuel is vitrified through calcination, then stabilized using a phosphate-based crystalline ceramic host through an ion exchange, or something...",
+    "id": "HYPERGOLIC_IONIZED_CERAMICS"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
     "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTY0NDM0MzYyNCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjRkZmFmZTdhYjhlODY5NWE1NmQzMWNjODY2NjcwNWQ2MWVkOTNiMWM1MTkxMGMyMmY0YTk1MGViNTVmMDRkZCIKICAgIH0KICB9Cn0=",
     "name": "Bundle of Magma Arrows",
     "tier": "EPIC",
@@ -67770,6 +67887,7 @@
     "material": "STONE_SWORD",
     "name": "Kindlebane Dagger",
     "category": "SWORD",
+    "sword_type": "DAGGER",
     "tier": "EPIC",
     "stats": {
       "DAMAGE": 130,
@@ -67807,6 +67925,7 @@
     "material": "IRON_SWORD",
     "name": "Mawdredge Dagger",
     "category": "SWORD",
+    "sword_type": "DAGGER",
     "tier": "EPIC",
     "stats": {
       "DAMAGE": 130,
@@ -67844,6 +67963,7 @@
     "material": "IRON_SWORD",
     "name": "Twilight Dagger",
     "category": "SWORD",
+    "sword_type": "DAGGER",
     "tier": "RARE",
     "stats": {
       "DAMAGE": 90,
@@ -67872,6 +67992,7 @@
     "material": "STONE_SWORD",
     "name": "Firedust Dagger",
     "category": "SWORD",
+    "sword_type": "DAGGER",
     "tier": "RARE",
     "stats": {
       "DAMAGE": 90,
@@ -67900,6 +68021,7 @@
     "material": "IRON_SWORD",
     "name": "Deathripper Dagger",
     "category": "SWORD",
+    "sword_type": "DAGGER",
     "tier": "LEGENDARY",
     "stats": {
       "DAMAGE": 160,
@@ -67938,6 +68060,7 @@
     "material": "STONE_SWORD",
     "name": "Pyrochaos Dagger",
     "category": "SWORD",
+    "sword_type": "DAGGER",
     "tier": "LEGENDARY",
     "stats": {
       "DAMAGE": 160,
@@ -67973,6 +68096,41 @@
     "id": "HEARTFIRE_DAGGER"
   },
   {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDMwNjU4N2VjMzhjMjQ0NmQzODlhNTgxZTA2OTE1NTZmYTU4ZmNlMGEwMmQwODQ2ZDIzZmQ2OGUzNjU2YTI0OSJ9fX0=",
+    "name": "Re-heated Gummy Polar Bear",
+    "tier": "UNCOMMON",
+    "id": "REHEATED_GUMMY_POLAR_BEAR"
+  },
+  {
+    "material": "BOOK",
+    "name": "Jalapeno Book",
+    "glowing": true,
+    "tier": "EPIC",
+    "npc_sell_price": 56000,
+    "unstackable": true,
+    "id": "JALAPENO_BOOK"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzU5MjhjMjc4NTAyN2U3YmM0OWZiOTZmZjQ4MDFhNjczZDJhNTllZjMwYjU2MWY5ZjI0NTIxNDZiNDVkZTg5OSJ9fX0=",
+    "name": "Capsaicin Eyedrops",
+    "tier": "RARE",
+    "unstackable": true,
+    "id": "CAPSAICIN_EYEDROPS"
+  },
+  {
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM4NTgyZTM3ZmJmZWMzMTdmMzkzMzVjYTU4MTYwMTRmMzIyNjJlMjZhYWEyY2I2YjcwYzllOThjM2MyMzk5MSJ9fX0=",
+    "name": "Entropy Suppressor",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "id": "ENTROPY_SUPPRESSOR"
+  },
+  {
     "material": "BLAZE_POWDER",
     "name": "Molten Powder",
     "tier": "RARE",
@@ -67997,7 +68155,7 @@
   {
     "material": "MONSTER_EGG",
     "durability": 52,
-    "name": "Amalgamated Crimsonite",
+    "name": "Amalgamated Crimsonite (Old)",
     "tier": "RARE",
     "glowing": true,
     "id": "AMALGAMATED_CRIMSONITE"
@@ -68072,6 +68230,7 @@
     "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjYzMDQ3OTg5NSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDQ1YmE0YjEwZWQ3NmMzZjEzZDQ2YmM5OWYyNGI1NzQzZTkyZGRiZDZmNjcxNmMzODVjMDgzMDVmZGJjOTk5ZSIKICAgIH0KICB9Cn0=",
     "name": "Kelvin Inverter",
     "tier": "RARE",
+    "npc_sell_price": 100000,
     "id": "KELVIN_INVERTER"
   },
   {
@@ -68796,6 +68955,7 @@
     "material": "DIAMOND_SWORD",
     "name": "Voidedge Katana",
     "category": "SWORD",
+    "sword_type": "KATANA",
     "tier": "RARE",
     "stats": {
       "DAMAGE": 125,
@@ -68841,6 +69001,7 @@
     "material": "DIAMOND_SWORD",
     "name": "Vorpal Katana",
     "category": "SWORD",
+    "sword_type": "KATANA",
     "tier": "EPIC",
     "stats": {
       "DAMAGE": 155,
@@ -68886,6 +69047,7 @@
     "material": "IRON_SWORD",
     "name": "Voidwalker Katana",
     "category": "SWORD",
+    "sword_type": "KATANA",
     "tier": "UNCOMMON",
     "stats": {
       "DAMAGE": 80,
@@ -68899,6 +69061,7 @@
     "name": "Atomsplit Katana",
     "glowing": true,
     "category": "SWORD",
+    "sword_type": "KATANA",
     "tier": "LEGENDARY",
     "stats": {
       "DAMAGE": 245,
@@ -70118,6 +70281,7 @@
     "material": "DIAMOND_AXE",
     "name": "Axe of the Shredded",
     "category": "SWORD",
+    "sword_type": "AXE",
     "tier": "LEGENDARY",
     "stats": {
       "DAMAGE": 140,
@@ -70349,6 +70513,7 @@
     "material": "DIAMOND_HOE",
     "name": "Reaper Scythe",
     "category": "SWORD",
+    "sword_type": "SCYTHE",
     "tier": "LEGENDARY",
     "stats": {
       "WALK_SPEED": 10,
